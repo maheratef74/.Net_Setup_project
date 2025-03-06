@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Application", "App.Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Infrastructure", "App.Infrastructure\App.Infrastructure.csproj", "{0E4971BB-C53C-4750-9846-33C0F3FFDA25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{2DA9AE01-CA50-49C7-8BB5-6E2F303D7615}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Core", "App.Core\App.Core.csproj", "{2DA9AE01-CA50-49C7-8BB5-6E2F303D7615}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
